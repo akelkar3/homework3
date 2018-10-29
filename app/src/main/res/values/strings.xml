@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">hw3</string>
+    <string name="titleText">Welcome to Trivia App</string>
+    <string name="readytext">Trivia Ready</string>
+    <string name="btnexit">Exit</string>
+    <string name="btnstart">Start Trivia</string>
+    <string name="DefaultQuestionNumber">Q0</string>
+    <string name="defaultTime">Time Left: </string>
+    <string name="secondsRemaining"> x seconds</string>
+    <string name="defaultQuestion">Question text goes here</string>
+    <string name="description">Image</string>
+    <string name="btnNext">Next</string>
+    <string name="btnQuit">Quit</string>
+    <string name="buttonTryAgain">Try Again</string>
+    <string name="TriviaStats">Trivia Stats</string>
+    <string name="CorrectAns">Correct Answers</string>
+    <string name="Percent">0%</string>
+    <string name="sbPercent"></string>
+    <string name="StatsText">Try again and see if you can get all the correct answers!</string>
+
+</resources>
